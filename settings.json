@@ -1,0 +1,43 @@
+{
+    "files.autoSave": "afterDelay",
+    "update.mode": "manual",
+    "workbench.enableExperiments": false,
+    "security.workspace.trust.untrustedFiles": "open",
+    "[css]": {
+        "editor.defaultFormatter": "aeschli.vscode-css-formatter"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    "workbench.iconTheme": "material-icon-theme",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "workbench.colorTheme": "Learn with Sumit Official Theme",
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "cSpell.userWords": [
+        "musa"
+    ],
+    "settingsSync.ignoredSettings": [
+        "-php.validate.executablePath"
+    ],
+    "atomKeymap.promptV3Features": true,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.formatOnPaste": true,
+    "workbench.sideBar.location": "right",
+    "editor.unicodeHighlight.allowedLocales": {
+        "es": true
+    },
+    "workbench.startupEditor": "none",
+    "window.zoomLevel": 2,
+    "window.confirmBeforeClose": "always",
+    // cursor
+    "editor.cursorSmoothCaretAnimation": true,
+    "editor.cursorBlinking": "expand",
+    // editor
+    "editor.fontSize": 16,
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+        // "editor.defaultFormatter": ""
+    },
+}
